@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ahmed Slaoui 	ahmslaoui@gmail.com
 
 # THANKS
 
