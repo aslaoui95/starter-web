@@ -16,6 +16,6 @@ This is the deployment section.
 
 ## How to contribute
 
-This is the contribute section
+Please fork this repository and issue pull request for review
 
 2019 NEW Git.Training.
