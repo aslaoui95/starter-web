@@ -1,0 +1,1 @@
+This is a text to distinguish betzeen commit -m and commit -am
