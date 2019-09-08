@@ -18,4 +18,4 @@ This is the deployment section.
 
 This is the contribute section
 
-2019 Git.Training.
+2019 NEW Git.Training.
