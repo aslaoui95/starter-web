@@ -22,4 +22,4 @@ This is the deployment section.
 
 Please fork this repository and issue pull request for review
 
-2019 NEW Git.Training.
+2019 NEW Git.Training. All rights reserved
